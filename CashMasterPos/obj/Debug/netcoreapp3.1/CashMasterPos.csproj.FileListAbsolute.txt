@@ -1,0 +1,13 @@
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\bin\Debug\netcoreapp3.1\CashMasterPos.exe
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\bin\Debug\netcoreapp3.1\CashMasterPos.deps.json
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\bin\Debug\netcoreapp3.1\CashMasterPos.runtimeconfig.json
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\bin\Debug\netcoreapp3.1\CashMasterPos.runtimeconfig.dev.json
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\bin\Debug\netcoreapp3.1\CashMasterPos.dll
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\bin\Debug\netcoreapp3.1\CashMasterPos.pdb
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.AssemblyInfoInputs.cache
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.AssemblyInfo.cs
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.csproj.CoreCompileInputs.cache
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.dll
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.pdb
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.genruntimeconfig.cache
+C:\Users\arturoa\source\repos\CashMasterPos\CashMasterPos\obj\Debug\netcoreapp3.1\CashMasterPos.csprojAssemblyReference.cache
